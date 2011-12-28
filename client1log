@@ -1,0 +1,159 @@
+Script started on Saturday 16 April 2011 12:24:48 PM IST
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ ./client 
+
+Connection Established !!
+Client's IP Address is 10.100.91.59
+Directory opened.
+
+The files shared by the client are: -
+
+bleed.avi
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>l
+
+List Request Sent to the Server.
+Loading List from the Server. 
+Please Wait..
+
+Files of client 1: -
+
+bleed.avi
+
+Files of client 2: -
+
+bleed.avi
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>d
+
+Download Request Sent to the Server.
+Enter client number:2
+Enter filename:
+bleed.avi
+Downloading bleed.avi. Please Wait..
+
+Download finished.
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>q
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ script -q
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ exitscript -q./client script -q./client cc -o client client.c -lpthread[K[12P./client [K[K[K[K[K[K[K[K[Kscript client1log 
+Script started, file is client1log
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ ./client 
+
+Connection Established !!
+Client's IP Address is 10.100.91.59
+Directory opened.
+
+The files shared by the client are: -
+
+bleed.avi
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>l
+
+List Request Sent to the Server.
+Loading List from the Server. 
+Please Wait..
+
+Files of client 1: -
+
+bleed.avi
+
+Files of client 2: -
+
+bleed.avi
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>d
+
+Download Request Sent to the Server.
+Enter client number:2
+Enter filename:
+bleed.avi
+Downloading bleed.avi. Please Wait..
+
+Download finished.
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>q
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ script -a client1log 
+Script started, file is client1log
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ ./client 
+
+Connection Established !!
+Client's IP Address is 10.100.91.59
+Directory opened.
+
+The files shared by the client are: -
+
+bleed.avi
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>l
+
+List Request Sent to the Server.
+Loading List from the Server. 
+Please Wait..
+
+Files of client 1: -
+
+bleed.avi
+
+Files of client 2: -
+
+bleed.avi
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>d
+
+Download Request Sent to the Server.
+Enter client number:bleed     2
+Enter filename:
+bleed.avi
+Downloading bleed.avi. Please Wait..
+
+Download finished.
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>q
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ exit
+exit
+Script done, file is client1log
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ exit
+exit
+Script done, file is client1log
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ exit
+exit
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ exit
+exit
+
+Script done on Sunday 17 April 2011 09:08:37 AM IST

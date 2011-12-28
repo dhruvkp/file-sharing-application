@@ -1,0 +1,3 @@
+set `ifconfig | grep "inet "`
+shift 1
+echo $1 > ipaddress

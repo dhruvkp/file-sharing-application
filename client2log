@@ -1,0 +1,92 @@
+Script started on Saturday 16 April 2011 12:24:57 PM IST
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ ./client 
+
+Connection Established !!
+Client's IP Address is 10.100.91.59
+Directory opened.
+
+The files shared by the client are: -
+
+bleed.avi
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>Receive Download request.
+Uploading /home/dhruv/Sample/bleed.avi
+Uploading Finished
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+q
+>]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ script -q1[K
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ exitscript -q./client script -q[K[Kclient2log 
+Script started, file is client2log
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ ./client 
+
+Connection Established !!
+Client's IP Address is 10.100.91.59
+Directory opened.
+
+The files shared by the client are: -
+
+bleed.avi
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>Receive Download request.
+Uploading /home/dhruv/Sample/bleed.avi
+Uploading Finished
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+q
+>]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ script -a client2log 
+Script started, file is client2log
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ ./client 
+
+Connection Established !!
+Client's IP Address is 10.100.91.59
+Directory opened.
+
+The files shared by the client are: -
+
+bleed.avi
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+>Receive Download request.
+Uploading /home/dhruv/Sample/bleed.avi
+Uploading Finished
+
+Enter choice:
+'l' to get list of files
+'d' to download file
+'q' to quit
+q
+>]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ exit
+exit
+Script done, file is client2log
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ script -a client2log 
+Script started, file is client2log
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ exit
+exit
+Script done, file is client2log
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ script -a client2log [Kscript -a client2log [12P./client[C\[K[K[K[K[K[K[K[K[K[Kexit
+exit
+Script done, file is client2log
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ script client2log [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+exit
+]0;dhruv@dhruv-laptop: ~/Documents/lalitdhruv@dhruv-laptop:~/Documents/lalit$ exit
+exit
+
+Script done on Sunday 17 April 2011 09:08:59 AM IST
